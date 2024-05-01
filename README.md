@@ -48,10 +48,10 @@
 <!-- Contact -->
 <h1 align="center">Want contact me?</h1>
 <p align="center">
-    * <a href="https://www.linkedin.com/in/ben-nzuzi/" target="_blank" rel="noopener"> Message me on Linkedln</a>
+    *** <a href="https://www.linkedin.com/in/ben-nzuzi/" target="_blank" rel="noopener"> Message me on Linkedln</a> ***
 </p>
 <p align="center">
-    * <a href="bennzuzi@outlook.com">Send an email</a>
+    ** <a href="bennzuzi@outlook.com">Send an email</a> **
     <p style='margin-bottom: 20px'>
     </p>
 </p>
