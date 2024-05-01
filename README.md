@@ -11,11 +11,11 @@
 </p>
 <!-- Social network -->
 <p style="margin-top: 50px;">
-    <p align="left">
+    <p align="right">
         <a href="https://www.linkedin.com/in/ben-nzuzi/" target="blank"><img src="https://www.linkedin.com/in/ben-nzuzi/overlay/background-image/" alt="Ben Nzuzi"/></a>
     </p>
-    <p align="left">
-        <a href="https://github.com/benbest96" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="benbest"/></a>
+    <p align="right">
+        <a href="https://github.com/benbest96" target="blank"><img src="https://img.shields.io/github/followers/benbest96?style=social" alt="benbest96"/></a>
     </p>
 <!-- Tools -->
 <h1 align="center">TOOLS and LANGUAGES</h1>
@@ -46,7 +46,7 @@
 </p>
 
 <!-- Contact -->
-<h1 align="center">Want contact me?</h1>
+<h1 align="center">Want to contact me?</h1>
 <p align="center">
     *** <a href="https://www.linkedin.com/in/ben-nzuzi/" target="_blank" rel="noopener"> Message me on Linkedln</a> ***
 </p>
