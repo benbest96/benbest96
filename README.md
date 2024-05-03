@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=87CEEB&center=true&vCenter=true&lines=Junior+developer;Administrator+system">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=87CEEB&center=true&vCenter=true&lines=Junior+developer;system+Administrator">
     <h3 align="center">I love new challenges</h3>
     <h3 align="center">I'm junior web developer</h3>
     <h3 align="center">professional in computer science focused on object-oriented programming, ethical hacking, and system administration under Linux and Windows</h3>
@@ -12,7 +12,7 @@
 <!-- Social network -->
 <p style="margin-top: 50px;">
     <p align="right">
-        <a href="https://www.linkedin.com/in/ben-nzuzi/" target="blank"><img src="https://www.linkedin.com/in/ben-nzuzi/overlay/background-image/" alt="Ben Nzuzi"/></a>
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-resources" target="blank"><img src="https://img.shields.io/badge/AZURE-%2387CEEB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="benbest96" />Certificated</a>
     </p>
     <p align="right">
         <a href="https://github.com/benbest96" target="blank"><img src="https://img.shields.io/github/followers/benbest96?style=social" alt="benbest96"/></a>
@@ -41,6 +41,7 @@
 <p align="center">
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+	<a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50"/> </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
