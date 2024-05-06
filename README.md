@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbest96&label=Profile%20views&color=0e75b6&style=flat" alt="benbest96" /> </p>
 <h1 align="center">Hi I'm benbest</h1>
-<!-- Intro -->
+<!-- Intr-->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=87CEEB&center=true&vCenter=true&lines=Junior+developer;system+Administrator">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=87CEEB&center=true&vCenter=true&lines=Junior+Developer;System+Administrator">
     <h3 align="center">I love new challenges</h3>
     <h3 align="center">I'm junior web developer</h3>
     <h3 align="center">professional in computer science focused on object-oriented programming, ethical hacking, and system administration under Linux and Windows</h3>
 </p>
-<!-- Social network -->
+<!-- Social -->
 <p style="margin-top: 50px;">
     <p align="right">
         <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-resources" target="blank"><img src="https://img.shields.io/badge/AZURE-%2387CEEB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="benbest96" />Certificated</a>
