@@ -4,7 +4,7 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=87CEEB&center=true&vCenter=true&lines=Junior+Developer;Cloud+Engineer;System+Administrator">
     <h3 align="center">I love new challenges</h3>
-    <h3 align="center">I'm junior web developer</h3>
+    <h3 align="center">I'm a junior web developer</h3>
     <h3 align="center">professional in computer science focused on object-oriented programming, ethical hacking, and system administration under Linux and Windows</h3>
 </p>
 <!-- Social -->
