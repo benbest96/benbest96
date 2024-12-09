@@ -10,7 +10,7 @@
 <!-- Social -->
 <p style="margin-top: 50px;">
     <p align="right">
-        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-resources" target="blank"><img src="https://img.shields.io/badge/AZURE-%2387CEEB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="benbest96" />Certificated</a>
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-resources" target="blank"><img src="https://img.shields.io/badge/AZURE-%2387CEEB.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="benbest96" />Certified</a>
     </p>
     <p align="right">
         <a href="https://github.com/benbest96" target="blank"><img src="https://img.shields.io/github/followers/benbest96?style=social" alt="benbest96"/></a>
