@@ -4,8 +4,8 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=87CEEB&center=true&vCenter=true&lines=Junior+Developer;Cloud+Engineer;System+Administrator">
     <h3 align="center">I like new challenges</h3>
-    <h3 align="center">I'm a junior cloud engineer</h3>
-    <h3 align="center">Professional in computer science focused on object-oriented programming, ethical hacking, and system administration under Linux and Windows</h3>
+    <h3 align="center">I'm a cloud engineer</h3>
+    <h3 align="center">Professional in computer science focused on cloud infrastructures, object-oriented programming, and system administration under Linux and Windows</h3>
 </p>
 <!-- Social -->
 <p style="margin-top: 50px;">
